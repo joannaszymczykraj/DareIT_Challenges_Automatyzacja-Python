@@ -30,4 +30,5 @@ The code added. Files moved to the repository.
 ### Subtask 4: Special task - purpule test
 <details>
 <summary>Click here to see general information about <b>Subtask 4</b></summary>
+My test result: 13/14
 </details>
