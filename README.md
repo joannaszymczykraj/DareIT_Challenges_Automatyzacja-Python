@@ -24,6 +24,7 @@ Fortunately, I don't get this error (or I don't see it :sweat_smile:) So I'm goi
 ### Subtask 3: Adding a code to my repository
 <details>
 <summary>Click here to see general information about <b>Subtask 3</b></summary>
+The code added. Files moved to the repository.
 </details>
 
 ### Subtask 4: Special task - purpule test
