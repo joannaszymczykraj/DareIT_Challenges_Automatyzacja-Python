@@ -6,6 +6,9 @@
 * [Subtask 2: Repairing a problem on the console](#subtask-2-repairing-a-problem-on-the-console)
 * [Subtask 3: Adding a code to my repository](#subtask-3-adding-a-code-to-my-repository)
 * [Subtask 4: Special task - purpule test](#subtask-4-special-task---purpule-test)
+* [Task 2: Selectors](#task-2-selectors)
+* [Subtask 1:](#subtask-1)
+* [Subtask 2: Searching for selectors on the login page. Show all items from the login page](#subtask-2-searching-for-selectors-on-the-login-page-show-all-items-from-the-login-page)
 
   
 ## Task 1: The Software configuration
