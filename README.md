@@ -36,5 +36,153 @@ My test result: 13/14
 ## Task 2: Selectors
 
 ### Subtask 1
-### Subtask 2
+
+### Subtask 2: Searching for selectors on the login page. Show all items from the login page
+<details> 
+<summary><b>1.	HEADER SCOUTS PANEL</b></summary>
+  
+<div>
+ <p>
+   <b>//*[@id="__next"]/form/div/div[1]/h5</b>
+ </p>
+
+<p>
+  <ol> 
+  <li>/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/h5[1]</li>
+  <li>//h5[contains(@class,'gutterBottom')]</li>
+  <li>//h5[@class='MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom']</li>
+  </ol>
+</p>
+</div>
+</details>
+
+<details> 
+<summary><b>2. LOGIN</b></summary>
+
+<div>
+  <p>
+<ul><b>a) Login field</b></ul>
+  </p>
+ <b>//*[@id="login"]</b>
+<p>
+  <ol>
+    <li>//input[contains(@class,'MuiInputBase') and @name='login']</li>
+    <li>//input[@name='login']</li>
+    <li>//input[starts-with(@class,'MuiIn')]</li>
+    <li>/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/input[1]</li>
+  </ol>  
+</p>
+
+<ul><b>b) Login label</b></ul>
+
+<b>//*[@id="login-label"]</b>
+<p>
+<ol>
+  <li>//label[text()='Login']</li>
+  <li>//label[@id='login-label']</li>
+  <li>//label[contains(@class,'MuiFormLabel-') and @id='login-label']</li>
+  <li>/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/label[1]</li>
+</ol>
+</p>
+</div>
+</details>
+
+
+
+<details> 
+<summary><b>3. PASSWORD</b></summary>
+
+<div>
+ <p>
+<ul><b>a) Password field</b></ul>
+</p> 
+<b>//*[@id="password"]</b>
+  <p>
+<ol>
+  <li>//input[@id='login']</li>
+  <li>//input[contains(@class,'MuiInputBase') and @name='login']</li>
+  <li>//input[starts-with(@name,'log')]</li>
+  <li>/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/input[1]</li>
+</ol>
+</p>
+
+<ul><b>b) Password label</b></ul>
+<p>
+<b>//*[@id="password-label"]</b>
+  </p>
+  <p>
+<ol>
+  <li>//label[@id=’password-label’]</li>
+  <li>//label[text()='Password']</li>
+  <li>//label[contains(@class,'formControl') and @for='password']</li>
+  <li>/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[2]/label[1]</li>
+</ol>
+</p>
+</div>
+</details>
+
+
+<details>
+  <summary><b>4. REMINDER PASSWORD LABEL</b></summary>
+
+<div>
+  <p>
+<b>//*[@id="__next"]/form/div/div[1]/a</b>
+</p>
+  <p>
+<ol>
+  <li>//a[text()='Remind password']</li>
+  <li>//a[contains(@class,'MuiLink-root')]</li>
+  <li>/html[1]/body[1]/div[1]/form[1]/div[1]</li>
+  <li>//a[@tabindex='-1']</li>
+</ol>
+  </p>
+</div>
+</details>
+
+
+
+<details>
+<summary><b>5.	LANGUAGE CHANGE BUTTON</b></summary>
+  
+<div>
+  <p>
+<b>//*[@id="__next"]/form/div/div[2]/div/div</b>
+ </p>
+  <p>
+<ol>
+  <li>//div[contains(@class,'MuiSelect')]</li>
+  <li>//div[text()='English']</li>
+  <li>//div[@tabindex='0' and @role='button']</li>
+  <li>/html[1]/body[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]</li>
+</ol>
+  </p>
+</div>
+</details>
+
+
+<details>
+<summary><b>6.	SING IN BUTTON</b></summary>
+ 
+<div>
+  <p>
+<b>//*[@id="__next"]/form/div/div[2]/button/span[1]</b>
+ </p>
+  <p>
+<ol>
+  <li>//span[text()='Sign in']</li>
+  <li>//span[@class='MuiButton-label']</li>
+  <li>//span[contains(@class,'MuiButton')]</li>
+  <li>/html[1]/body[1]/div[1]/form[1]/div[1]/div[2]/button[1]/span[1]</li>
+</ol>
+  </p>
+</div>
+</details>
+
+
+
+
+
+
+
 ### Subtask 3
