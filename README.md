@@ -32,3 +32,9 @@ The code added. Files moved to the repository.
 <summary>Click here to see general information about <b>Subtask 4</b></summary>
 My test result: 13/14
 </details>
+
+## Task 2: Selectors
+
+### Subtask 1
+### Subtask 2
+### Subtask 3
