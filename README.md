@@ -42,11 +42,11 @@ My test result: 13/14
 
 ### Subtask 2: Searching for selectors on the login page. Show all items from the login page
 <details> 
-<summary><b>1.	HEADER SCOUTS PANEL</b></summary>
+<summary><b>1.	HEADER_SCOUTS_PANEL</b></summary>
   
 <div>
  <p>
-   <b>//*[@id="__next"]/form/div/div[1]/h5</b>
+   <b>copy XPath= //*[@id="__next"]/form/div/div[1]/h5</b>
  </p>
 
 <p>
@@ -64,9 +64,9 @@ My test result: 13/14
 
 <div>
   <p>
-<ul><b>a) Login field</b></ul>
+<ul><b>a) Login_field</b></ul>
   </p>
- <b>//*[@id="login"]</b>
+ <b>copy XPath= //*[@id="login"]</b>
 <p>
   <ol>
     <li>//input[contains(@class,'MuiInputBase') and @name='login']</li>
@@ -76,9 +76,9 @@ My test result: 13/14
   </ol>  
 </p>
 
-<ul><b>b) Login label</b></ul>
+<ul><b>b) Login_label</b></ul>
 
-<b>//*[@id="login-label"]</b>
+<b>copy XPath= //*[@id="login-label"]</b>
 <p>
 <ol>
   <li>//label[text()='Login']</li>
@@ -97,9 +97,9 @@ My test result: 13/14
 
 <div>
  <p>
-<ul><b>a) Password field</b></ul>
+<ul><b>a) Password_field</b></ul>
 </p> 
-<b>//*[@id="password"]</b>
+<b>copy XPath= //*[@id="password"]</b>
   <p>
 <ol>
   <li>//input[@id='login']</li>
@@ -109,9 +109,9 @@ My test result: 13/14
 </ol>
 </p>
 
-<ul><b>b) Password label</b></ul>
+<ul><b>b) Password_label</b></ul>
 <p>
-<b>//*[@id="password-label"]</b>
+<b>copy XPath= //*[@id="password-label"]</b>
   </p>
   <p>
 <ol>
@@ -126,11 +126,11 @@ My test result: 13/14
 
 
 <details>
-  <summary><b>4. REMINDER PASSWORD LABEL</b></summary>
+  <summary><b>4. REMINDER_PASSWORD_LABEL</b></summary>
 
 <div>
   <p>
-<b>//*[@id="__next"]/form/div/div[1]/a</b>
+<b>copy XPath= //*[@id="__next"]/form/div/div[1]/a</b>
 </p>
   <p>
 <ol>
@@ -146,11 +146,11 @@ My test result: 13/14
 
 
 <details>
-<summary><b>5.	LANGUAGE CHANGE BUTTON</b></summary>
+<summary><b>5.	LANGUAGE_CHANGE_BUTTON</b></summary>
   
 <div>
   <p>
-<b>//*[@id="__next"]/form/div/div[2]/div/div</b>
+<b>copy XPath= //*[@id="__next"]/form/div/div[2]/div/div</b>
  </p>
   <p>
 <ol>
@@ -165,11 +165,11 @@ My test result: 13/14
 
 
 <details>
-<summary><b>6.	SING IN BUTTON</b></summary>
+<summary><b>6.	SING_IN_BUTTON</b></summary>
  
 <div>
   <p>
-<b>//*[@id="__next"]/form/div/div[2]/button/span[1]</b>
+<b>copy XPath= //*[@id="__next"]/form/div/div[2]/button/span[1]</b>
  </p>
   <p>
 <ol>
