@@ -7,8 +7,12 @@
 * [Subtask 3: Adding a code to my repository](#subtask-3-adding-a-code-to-my-repository)
 * [Subtask 4: Special task - purpule test](#subtask-4-special-task---purpule-test)
 * [Task 2: Selectors](#task-2-selectors)
-* [Subtask 1:](#subtask-1)
+* [Subtask 1: Special task - new branch](#subtask-1-special-task---new-branch)
 * [Subtask 2: Searching for selectors on the login page. Show all items from the login page](#subtask-2-searching-for-selectors-on-the-login-page-show-all-items-from-the-login-page)
+* [Subtask 3: Adding selectors to the project](#subtask-3-adding-selectors-to-the-project)
+* [Subtask 4: Adding a new field to the project](#subtask-4-adding-a-new-field-to-the-project)
+* [Subtask 5: Addind a new field - add a match form](#subtask-5-addind-a-new-field---add-a-match-form)
+* [Subtask 6: Special task - branch merging](#subtask-6-special-task---branch-merging)
 
   
 ## Task 1: The Software configuration
@@ -38,11 +42,12 @@ My test result: 13/14
 
 ## Task 2: Selectors
 
-### Subtask 1
+### Subtask 1: Special task - new branch
+New branch "selectors" added to PYcharm.
 
 ### Subtask 2: Searching for selectors on the login page. Show all items from the login page
 <details> 
-<summary><b>1.	HEADER_SCOUTS_PANEL</b></summary>
+<summary><b>1.	HEADER_SCOUTS_PANEL_XPATH</b></summary>
   
 <div>
  <p>
@@ -60,11 +65,11 @@ My test result: 13/14
 </details>
 
 <details> 
-<summary><b>2. LOGIN</b></summary>
+<summary><b>2. LOGIN_XPATH</b></summary>
 
 <div>
   <p>
-<ul><b>a) Login_field</b></ul>
+<ul><b>a) Login_field_xpath</b></ul>
   </p>
  <b>copy XPath= //*[@id="login"]</b>
 <p>
@@ -76,7 +81,7 @@ My test result: 13/14
   </ol>  
 </p>
 
-<ul><b>b) Login_label</b></ul>
+<ul><b>b) Login_label_xpath</b></ul>
 
 <b>copy XPath= //*[@id="login-label"]</b>
 <p>
@@ -93,11 +98,11 @@ My test result: 13/14
 
 
 <details> 
-<summary><b>3. PASSWORD</b></summary>
+<summary><b>3. PASSWORD_XPATH</b></summary>
 
 <div>
  <p>
-<ul><b>a) Password_field</b></ul>
+<ul><b>a) Password_field_xpath</b></ul>
 </p> 
 <b>copy XPath= //*[@id="password"]</b>
   <p>
@@ -109,7 +114,7 @@ My test result: 13/14
 </ol>
 </p>
 
-<ul><b>b) Password_label</b></ul>
+<ul><b>b) Password_label_xpath</b></ul>
 <p>
 <b>copy XPath= //*[@id="password-label"]</b>
   </p>
@@ -126,7 +131,7 @@ My test result: 13/14
 
 
 <details>
-  <summary><b>4. REMINDER_PASSWORD_LABEL</b></summary>
+  <summary><b>4. REMINDER_PASSWORD_LABEL_XPATH</b></summary>
 
 <div>
   <p>
@@ -146,7 +151,7 @@ My test result: 13/14
 
 
 <details>
-<summary><b>5.	LANGUAGE_CHANGE_BUTTON</b></summary>
+<summary><b>5.	LANGUAGE_CHANGE_BUTTON_XPATH</b></summary>
   
 <div>
   <p>
@@ -165,7 +170,7 @@ My test result: 13/14
 
 
 <details>
-<summary><b>6.	SING_IN_BUTTON</b></summary>
+<summary><b>6.	SING_IN_BUTTON_XPATH</b></summary>
  
 <div>
   <p>
@@ -182,10 +187,14 @@ My test result: 13/14
 </div>
 </details>
 
+### Subtask 3: Adding selectors to the project
+Job done - selektors added to the projekt in the login_page tab in PYcharm.
 
+### Subtask 4: Adding a new field to the project
+Job done - a new field "dashboard" added to the project in PYcharm.
 
+### Subtask 5: Addind a new field - add a match form
+Job done - a new field "add_a_match_form" added to the projekt in PYcharm. Moreover, more than 10 selectors have been added.
 
-
-
-
-### Subtask 3
+### Subtask 6: Special task - branch merging
+Job done - merge pull request :muscle:
