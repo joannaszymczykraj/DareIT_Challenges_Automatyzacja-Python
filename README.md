@@ -188,13 +188,13 @@ New branch "selectors" added to PYcharm.
 </details>
 
 ### Subtask 3: Adding selectors to the project
-Job done - selektors added to the projekt in the login_page tab in PYcharm.
+Job done - selektors added to the projekt in the login_page tab in PyCharm.
 
 ### Subtask 4: Adding a new field to the project
-Job done - a new field "dashboard" added to the project in PYcharm.
+Job done - a new field "dashboard" added to the project in PyCharm.
 
 ### Subtask 5: Addind a new field - add a match form
-Job done - a new field "add_a_match_form" added to the projekt in PYcharm. Moreover, more than 10 selectors have been added.
+Job done - a new field "add_a_match_form" added to the projekt in PyCharm. Moreover, more than 10 selectors have been added.
 
 ### Subtask 6: Special task - branch merging
 Job done - merge pull request :muscle:
