@@ -206,8 +206,11 @@ Job done - merge pull request :muscle:
 
 ## Task 3: First test case and assertion
 ### Subtask 1: Completing the login page
+Job done - the login page has been completed.
 ### Subtask 2: New test case
+Job done - the new test case has been done. 
 ### Subtask 3: Assertion
+Job done - the assertion has been done.
 ### Subtask 4: Repeating
 <details>
 <summary>Click here to see general information about <b>Subtask 4</b></summary>
@@ -222,4 +225,8 @@ Job done - merge pull request :muscle:
     </ol>
     </p>
    </div>
+  <p>
+  Job done - I'm a master :superhero_woman: :laughing:
+</p>
    </details>  
+
