@@ -1,6 +1,6 @@
 # Dare IT Challenges Testy Automatyczne + Python
 
-#### Table od contents
+#### Table of contents
 * [Task 1: The Software configuration](#task-1-the-software-configuration)
 * [Subtask 1: Why did I decided take part in Dare IT Challenge project?](#subtask-1-why-did-i-decided-take-part-in-dare-it-challenge-project)
 * [Subtask 2: Repairing a problem on the console](#subtask-2-repairing-a-problem-on-the-console)
