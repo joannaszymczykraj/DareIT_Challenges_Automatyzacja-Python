@@ -13,7 +13,11 @@
 * [Subtask 4: Adding a new field to the project](#subtask-4-adding-a-new-field-to-the-project)
 * [Subtask 5: Addind a new field - add a match form](#subtask-5-addind-a-new-field---add-a-match-form)
 * [Subtask 6: Special task - branch merging](#subtask-6-special-task---branch-merging)
-
+* [Task 3: First test case and assertion](#task-3-first-test-case-and-assertion)
+* [Subtask 1: Completing the login page](#subtask-1-completing-the-login-page)
+* [Subtask 2: New test case](#subtask-2-new-test-case)
+* [Subtask 3: Assertion](#subtask-3-assertion)
+* [Subtask 4: Repeating](#subtask-4-repeating)
   
 ## Task 1: The Software configuration
 ### Subtask 1: Why did I decided take part in Dare IT Challenge project?
@@ -198,3 +202,24 @@ Job done - a new field "add_a_match_form" added to the projekt in PyCharm. Moreo
 
 ### Subtask 6: Special task - branch merging
 Job done - merge pull request :muscle:
+
+
+## Task 3: First test case and assertion
+### Subtask 1: Completing the login page
+### Subtask 2: New test case
+### Subtask 3: Assertion
+### Subtask 4: Repeating
+<details>
+<summary>Click here to see general information about <b>Subtask 4</b></summary>
+ <p>
+   <div>
+   <b>Tasks done:</b></p>
+    <p>
+    <ol>
+    <li>creation a new page</li>
+    <li>creation a new test case</li>
+    <li>use an assertion method</li>
+    </ol>
+    </p>
+   </div>
+   </details>  
