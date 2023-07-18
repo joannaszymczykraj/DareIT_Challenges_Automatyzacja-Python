@@ -10,7 +10,7 @@ class LoginPage(BasePage):
     password_label_xpath = "//label[@id=’password-label’]"
     reminder_password_label_xpath = "//a[text()='Remind password']"
     language_change_button_xpath = "//div[contains(@class,'MuiSelect')]"
-    login_url = ('https://scouts-test.futbolkolektyw.pl/en')
+    login_url = 'https://scouts-test.futbolkolektyw.pl/en'
     expected_title = "Scouts panel - sign in"
     header_of_box = 'Scouts Panel'
 
