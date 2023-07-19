@@ -1,4 +1,5 @@
 import time
+from selenium import webdriver
 from pages.base_page import BasePage
 
 
@@ -22,8 +23,8 @@ class Dashboard(BasePage):
     expected_title_dashboard = "Scouts panel"
 
     def title_of_page(self):
-        time.sleep(10)
-        # assert self.get_page_title(self.dashboard_url) == self.expected_title_dashboard
+        self.wait_for_element_to_be_clickable(self.dev_team_contact_button_xpath)
+        assert self.get_page_title(self.dashboard_url) == self.expected_title_dashboard
 
     def click_on_the_add_player_button(self):
         self.click_on_the_element(self.add_player_button_xpath)
