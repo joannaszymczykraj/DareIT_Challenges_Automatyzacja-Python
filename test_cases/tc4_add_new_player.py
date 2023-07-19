@@ -1,16 +1,17 @@
 import os
 import time
 import unittest
+
 from selenium import webdriver
 
-from pages.dashboard import BasePage, Dashboard
+from pages.add_a_player import AddAPlayer
+from pages.dashboard import Dashboard
 from pages.login_page import LoginPage
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 from selenium.webdriver.chrome.service import Service
 
 
-class TestLoginPage(unittest.TestCase):
-
+class TestAddPlayer(unittest.TestCase):
     driver_service = None
     driver = None
 
@@ -23,18 +24,24 @@ class TestLoginPage(unittest.TestCase):
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
-    def test_log_in_to_the_system(self):
+    def test_add_a_player(self):
         user_login = LoginPage(self.driver)
         user_login.title_of_page()
         user_login.type_in_email('user01@getnada.com')
         user_login.type_in_password('Test-1234')
         user_login.click_on_the_sign_in_button()
-        time.sleep(20)
+        time.sleep(25)
         dashboard_page = Dashboard(self.driver)
-        dashboard_page.title_of_page()
-        time.sleep(10)
-        dashboard_page.click_on_the_sign_out_button()
-        time.sleep(10)
+        dashboard_page.click_on_the_add_player_button()
+        time.sleep(25)
+        add_player = AddAPlayer(self.driver)
+        add_player.title_of_page()
+        add_player.type_in_name('Joanna')
+        add_player.type_in_surname('Testowa')
+        add_player.type_in_age('01.01.2000')
+        add_player.type_in_main_position('Goalkeeper')
+        add_player.click_on_submit_button()
+        time.sleep(15)
 
     @classmethod
     def tearDown(self):

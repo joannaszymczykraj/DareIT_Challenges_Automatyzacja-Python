@@ -13,6 +13,7 @@ class LoginPage(BasePage):
     login_url = 'https://scouts-test.futbolkolektyw.pl/en'
     expected_title = "Scouts panel - sign in"
     header_of_box = 'Scouts Panel'
+    lack_of_login_or_password_info_xpath = "//span[contains(@class,'colorError')]"
 
     def type_in_email(self, email):
         self.field_send_keys(self.login_field_xpath, email)
@@ -20,8 +21,12 @@ class LoginPage(BasePage):
         self.field_send_keys(self.password_field_xpath, password)
     def click_on_the_sign_in_button(self):
         self.click_on_the_element(self.sign_in_button_xpath)
+
     def title_of_page(self):
         assert self.get_page_title(self.login_url) == self.expected_title
+
+    def click_on_remind_password_button(self):
+        self.click_on_the_element(self.reminder_password_label_xpath)
 
 
 

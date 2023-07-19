@@ -1,14 +1,14 @@
 from pages.base_page import BasePage
 
 
-class add_a_match_form(BasePage):
+class AddAMatchForm(BasePage):
     main_page_button_xpath = "//span[text()='Main page']"
     players_button_xpath = "//span[text()='Players']"
     player_name_button_xpath = "//span[contains(@class,'body1') and text()='Test Test']"
     matches_button_xpath = "//span[text()='Matches']"
     reports_button_xpath = "//span[text()='Reports']"
     language_polish_button_xpath = "//span[text()='Polski']"
-    sing_out_button_xpath = "//span[text()='Sign out']"
+    sign_out_button_xpath = "//span[text()='Sign out']"
     side_menu_box_xpath = "//div[contains(@class, 'jss16')]"
     my_team_field_xpath = "//input[@name='myTeam']"
     enemy_team_field_xpath = "//input[@name='enemyTeam']"
