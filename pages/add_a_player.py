@@ -11,6 +11,8 @@ class AddAPlayer(BasePage):
     main_position_field_xpath = "//input[@name='mainPosition']"
     submit_button_xpath = "//button[contains(@class,'containedPrimary') and @type='submit']"
 
+
+
     def title_of_page(self):
         assert self.get_page_title(self.add_player_url) == self.expected_title_add_player
         time.sleep(5)
@@ -30,4 +32,5 @@ class AddAPlayer(BasePage):
     def click_on_submit_button(self):
         self.click_on_the_element(self.submit_button_xpath)
 
-
+    # def assert_add_player(self): #dodane
+    #     assert self.assert_add_player(self.add_player_title_xpath) == self.add_player_text #dodane

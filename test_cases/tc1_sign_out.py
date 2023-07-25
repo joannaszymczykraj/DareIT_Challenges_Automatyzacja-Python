@@ -10,7 +10,6 @@ from selenium.webdriver.chrome.service import Service
 
 
 class TestSignOut(unittest.TestCase):
-
     driver_service = None
     driver = None
 
@@ -29,12 +28,22 @@ class TestSignOut(unittest.TestCase):
         user_login.type_in_email('user01@getnada.com')
         user_login.type_in_password('Test-1234')
         user_login.click_on_the_sign_in_button()
-        time.sleep(25)
+        time.sleep(20)
         dashboard_page = Dashboard(self.driver)
         dashboard_page.title_of_page()
-        time.sleep(15)
+        time.sleep(20)
         dashboard_page.click_on_the_sign_out_button()
-        time.sleep(10)
+        time.sleep(15)
+
+    def test_check_title_after_sign_out(self):
+        actual_title = self.get_page_title('https://scouts-test.futbolkolektyw.pl/en/login')
+        expected_title = 'Scouts panel - sign in'
+        assert actual_title == expected_title
+        time.sleep(15)
+
+    def get_page_title(self, url):
+        self.driver.get(url)
+        return self.driver.title
 
     @classmethod
     def tearDown(self):

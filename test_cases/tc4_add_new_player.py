@@ -6,12 +6,13 @@ from selenium import webdriver
 
 from pages.add_a_player import AddAPlayer
 from pages.dashboard import Dashboard
+from pages.edit_player import EditPlayer
 from pages.login_page import LoginPage
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 from selenium.webdriver.chrome.service import Service
 
 
-class TestAddPlayer(unittest.TestCase):
+class TestAddPlayer2(unittest.TestCase):
     driver_service = None
     driver = None
 
@@ -41,6 +42,11 @@ class TestAddPlayer(unittest.TestCase):
         add_player.type_in_age('01.01.2000')
         add_player.type_in_main_position('Goalkeeper')
         add_player.click_on_submit_button()
+        # edit_player = EditPlayer(self.driver)
+        # edit_player.get_page_title() # zly url?
+        time.sleep(20)
+
+        # add_player.assert_add_player() #dodane
         time.sleep(15)
 
     @classmethod

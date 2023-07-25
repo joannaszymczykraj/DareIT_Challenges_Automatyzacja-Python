@@ -9,7 +9,7 @@ from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 from selenium.webdriver.chrome.service import Service
 
 
-class TestLoginPage(unittest.TestCase):
+class TestLoginPage2(unittest.TestCase):
     driver_service = None
     driver = None
 
@@ -24,7 +24,7 @@ class TestLoginPage(unittest.TestCase):
 
     def test_log_in_to_the_system(self):
         user_login = LoginPage(self.driver)
-        user_login.title_of_page()
+        user_login.title_of_page() # nie mam pojęcia dlaczego to  raz działa a raz nie działa!
         user_login.click_on_the_sign_in_button()
         time.sleep(20)
 
