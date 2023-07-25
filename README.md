@@ -18,6 +18,7 @@
 * [Subtask 2: New test case](#subtask-2-new-test-case)
 * [Subtask 3: Assertion](#subtask-3-assertion)
 * [Subtask 4: Repeating](#subtask-4-repeating)
+* [Task 4: Refactor, debugger and test cases](#task-4-refactor-debugger-and-test-cases)
   
 ## Task 1: The Software configuration
 ### Subtask 1: Why did I decided take part in Dare IT Challenge project?
@@ -229,4 +230,21 @@ Job done - the assertion has been done.
   Job done - I'm a master :superhero_woman: :laughing:
 </p>
    </details>  
+   
+## Task 4: Refactor, debugger and test cases
+<details>
+<summary>Click here to see general information about <b>Task 4 </b></summary>
+ <p></p>
+  
+I must admit that this task turned out to be very difficult for me. Mainly because the tests from task 3 that I was getting have (and I was very proud of it!), now stopped working. Sometimes they worked, sometimes they didn't. It took me a long time to grasp this topic. Real blood, sweat and tears. And little sleep.
+But it works for me ;-)
+Task 4, after researching task 3 in depth, somehow went. I have killer timings in TC, but I think the cause of my problems is a weak computer :-D
+I hope my codes will work for you too!
 
+And the end I have to say that it was really fun to sit at night and look for bugs in my own code with bated breath. This is great! But I don't have the strength (and time) for additional tasks... Forgive me
+
+Link to my <b>Google Drive</b>: https://drive.google.com/drive/folders/1P4-GnabJHj68kLa3RNLk4zsD_9CJetEe?usp=sharing
+
+
+
+   </details>
