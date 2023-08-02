@@ -257,4 +257,4 @@ And the end I have to say that it was really fun to sit at night and look for bu
 <p></p>
 :point_right: Link to my <b>Google Drive with Task 6<b>: https://drive.google.com/drive/folders/16v1R3lYfInhQ_OqfTN5G1MDHr3qYxFy2?usp=drive_link
 <p></p>
-:point_right: Link to my <b>Portfolio<b>: 
+:point_right: Link to my <b>Portfolio<b>: https://github.com/joannaszymczykraj/Portfolio_J_Szymczyk-Raj/blob/main/README.md
