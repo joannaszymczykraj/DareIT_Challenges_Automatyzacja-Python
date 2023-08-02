@@ -20,6 +20,7 @@
 * [Subtask 4: Repeating](#subtask-4-repeating)
 * [Task 4: Refactor, debugger and test cases](#task-4-refactor-debugger-and-test-cases)
 * [Task 5: Robot framework](#task-5-robot-framework)
+* [Task 6: Bug report, test report and portfolio](#task-6-bug-report-test-report-and-portfolio)
   
 ## Task 1: The Software configuration
 ### Subtask 1: Why did I decided take part in Dare IT Challenge project?
@@ -251,3 +252,9 @@ And the end I have to say that it was really fun to sit at night and look for bu
 ## Task 5: Robot framework
 <p></p>
 :point_right:Link to my new repository with <b>robot framework<b>: https://github.com/joannaszymczykraj/panelscouts_robotframework.git
+
+## Task 6: Bug report, test report and portfolio
+<p></p>
+:point_right: Link to my <b>Google Drive with Task 6<b>: https://drive.google.com/drive/folders/16v1R3lYfInhQ_OqfTN5G1MDHr3qYxFy2?usp=drive_link
+<p></p>
+:point_right: Link to my <b>Portfolio<b>: 
