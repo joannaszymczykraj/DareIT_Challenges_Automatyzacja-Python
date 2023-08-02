@@ -19,6 +19,8 @@
 * [Subtask 3: Assertion](#subtask-3-assertion)
 * [Subtask 4: Repeating](#subtask-4-repeating)
 * [Task 4: Refactor, debugger and test cases](#task-4-refactor-debugger-and-test-cases)
+* [Task 5: Robot framework](#task-5-robot-framework)
+* [Task 6: Bug report, test report and portfolio](#task-6-bug-report-test-report-and-portfolio)
   
 ## Task 1: The Software configuration
 ### Subtask 1: Why did I decided take part in Dare IT Challenge project?
@@ -243,8 +245,16 @@ I hope my codes will work for you too!
 
 And the end I have to say that it was really fun to sit at night and look for bugs in my own code with bated breath. This is great! But I don't have the strength (and time) for additional tasks... Forgive me
 
-Link to my <b>Google Drive</b>: https://drive.google.com/drive/folders/1P4-GnabJHj68kLa3RNLk4zsD_9CJetEe?usp=sharing
-
-
+:point_right:Link to my <b>Google Drive</b>: https://drive.google.com/drive/folders/15N5ag82py6HUjEIwgRqGIMbfVKt_8F6s?usp=drive_link
 
    </details>
+
+## Task 5: Robot framework
+<p></p>
+:point_right:Link to my new repository with <b>robot framework<b>: https://github.com/joannaszymczykraj/panelscouts_robotframework.git
+
+## Task 6: Bug report, test report and portfolio
+<p></p>
+:point_right: Link to my <b>Google Drive with Task 6<b>: https://drive.google.com/drive/folders/16v1R3lYfInhQ_OqfTN5G1MDHr3qYxFy2?usp=drive_link
+<p></p>
+:point_right: Link to my <b>Portfolio<b>: https://github.com/joannaszymczykraj/Portfolio_J_Szymczyk-Raj/blob/main/README.md
