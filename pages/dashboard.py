@@ -21,7 +21,7 @@ class Dashboard(BasePage):
     add_player_button_xpath = "//span[text()='Add player']"
     dev_team_contact_button_xpath = "//span[text()='Dev team contact']"
     logo_scouts_panel_xpath = "//div[@title='Logo Scouts Panel']"
-    dashboard_url = 'https://scouts-test.futbolkolektyw.pl/en/'
+    dashboard_url = 'https://dareit.futbolkolektyw.pl/en/'
     expected_title_dashboard = "Scouts panel"
     wait = WebDriverWait(driver, 15)
 

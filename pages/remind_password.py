@@ -9,7 +9,7 @@ class RemindPassword(BasePage):
     send_button_xpath = "//button[@type='submit']"
 
     expected_title_remind_password = "Remind password"
-    remind_password_url = 'https://scouts-test.futbolkolektyw.pl/en/remind'
+    remind_password_url = 'https://dareit.futbolkolektyw.pl/en/remind'
 
 
     def title_of_page(self):

@@ -21,7 +21,7 @@ class TestAddPlayer2(unittest.TestCase):
         os.chmod(DRIVER_PATH, 755)
         self.driver_service = Service(executable_path=DRIVER_PATH)
         self.driver = webdriver.Chrome(service=self.driver_service)
-        self.driver.get('https://scouts-test.futbolkolektyw.pl/en')
+        self.driver.get('https://dareit.futbolkolektyw.pl/en')
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
@@ -33,6 +33,8 @@ class TestAddPlayer2(unittest.TestCase):
         user_login.click_on_the_sign_in_button()
         time.sleep(25)
         dashboard_page = Dashboard(self.driver)
+        dashboard_page.title_of_page()
+        time.sleep(20)
         dashboard_page.click_on_the_add_player_button()
         time.sleep(25)
         add_player = AddAPlayer(self.driver)
@@ -48,6 +50,10 @@ class TestAddPlayer2(unittest.TestCase):
 
         # add_player.assert_add_player() #dodane
         time.sleep(15)
+
+    def get_page_title(self, url):
+        self.driver.get(url)
+        return self.driver.title
 
     @classmethod
     def tearDown(self):
