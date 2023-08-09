@@ -2,7 +2,7 @@
 
 #### :loop: Table of contents <p></p>
 
- :eight_spoked_asterisk: <b>[Task 1: The Software configuration](#task-1-the-software-configuration)</b> <p></p>
+ :eight_spoked_asterisk: <b>[Task 1: The Software configuration](#point_right-task-1-the-software-configuration-point_left-) </b> <p></p>
 * [Subtask 1: Why did I decided take part in Dare IT Challenge project?](#subtask-1-why-did-i-decided-take-part-in-dare-it-challenge-project)
 * [Subtask 2: Repairing a problem on the console](#subtask-2-repairing-a-problem-on-the-console)
 * [Subtask 3: Adding a code to my repository](#subtask-3-adding-a-code-to-my-repository)
