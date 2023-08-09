@@ -1,27 +1,27 @@
 # Portfolio - Joanna Szymczyk-Raj  <p> :sparkles: Dare IT Challenges Testy Automatyczne + Python :sparkles: </p>
 
-#### :loop: Table of contents <p></p>
+### :loop: Table of contents <p></p>
 
  :eight_spoked_asterisk: <b>[Task 1: The Software configuration](#point_right-task-1-the-software-configuration-point_left-) </b> <p></p>
-* [Subtask 1: Why did I decided take part in Dare IT Challenge project?](#subtask-1-why-did-i-decided-take-part-in-dare-it-challenge-project)
-* [Subtask 2: Repairing a problem on the console](#subtask-2-repairing-a-problem-on-the-console)
-* [Subtask 3: Adding a code to my repository](#subtask-3-adding-a-code-to-my-repository)
-* [Subtask 4: Special task - purpule test](#subtask-4-special-task---purpule-test) <p></p>
- :eight_spoked_asterisk: <b>[Task 2: Selectors](#task-2-selectors) </b><p></p>
-* [Subtask 1: Special task - new branch](#subtask-1-special-task---new-branch)
-* [Subtask 2: Searching for selectors on the login page. Show all items from the login page](#subtask-2-searching-for-selectors-on-the-login-page-show-all-items-from-the-login-page)
-* [Subtask 3: Adding selectors to the project](#subtask-3-adding-selectors-to-the-project)
-* [Subtask 4: Adding a new field to the project](#subtask-4-adding-a-new-field-to-the-project)
-* [Subtask 5: Addind a new field - add a match form](#subtask-5-addind-a-new-field---add-a-match-form)
-* [Subtask 6: Special task - branch merging](#subtask-6-special-task---branch-merging) <p></p>
- :eight_spoked_asterisk: <b>[Task 3: First test case and assertion](#task-3-first-test-case-and-assertion) </b><p></p>
-* [Subtask 1: Completing the login page](#subtask-1-completing-the-login-page)
-* [Subtask 2: New test case](#subtask-2-new-test-case)
-* [Subtask 3: Assertion](#subtask-3-assertion)
-* [Subtask 4: Repeating](#subtask-4-repeating) <p></p>
-:eight_spoked_asterisk: <b>[Task 4: Refactor, debugger and test cases](#task-4-refactor-debugger-and-test-cases) <b/><p></p>
-:eight_spoked_asterisk: <b>[Task 5: Robot framework](#task-5-robot-framework) <b/><p></p>
-:eight_spoked_asterisk: <b>[Task 6: Bug report, test report and portfolio](#task-6-bug-report-test-report-and-portfolio) <b/>
+* [Subtask 1: Why did I decided take part in Dare IT Challenge project?](#diamonds-subtask-1-why-did-i-decided-take-part-in-dare-it-challenge-project)
+* [Subtask 2: Repairing a problem on the console](#diamonds-subtask-2-repairing-a-problem-on-the-console)
+* [Subtask 3: Adding a code to my repository](#diamonds-subtask-3-adding-a-code-to-my-repository)
+* [Subtask 4: Special task - purpule test](#diamonds-subtask-4-special-task---purpule-test) <p></p>
+ :eight_spoked_asterisk: <b>[Task 2: Selectors](#point_right-task-2-selectors-point_left) </b><p></p>
+* [Subtask 1: Special task - new branch](#gem-subtask-1-special-task---new-branch)
+* [Subtask 2: Searching for selectors on the login page. Show all items from the login page](#gem-subtask-2-searching-for-selectors-on-the-login-page-show-all-items-from-the-login-page)
+* [Subtask 3: Adding selectors to the project](#gem-subtask-3-adding-selectors-to-the-project)
+* [Subtask 4: Adding a new field to the project](#gem-subtask-4-adding-a-new-field-to-the-project)
+* [Subtask 5: Addind a new field - add a match form](#gem-subtask-5-addind-a-new-field---add-a-match-form)
+* [Subtask 6: Special task - branch merging](#gem-subtask-6-special-task---branch-merging) <p></p>
+ :eight_spoked_asterisk: <b>[Task 3: First test case and assertion](#point_right-task-3-first-test-case-and-assertion-point_left) </b><p></p>
+* [Subtask 1: Completing the login page](#heavy_check_mark-subtask-1-completing-the-login-page)
+* [Subtask 2: New test case](#heavy_check_mark-subtask-2-new-test-case)
+* [Subtask 3: Assertion](#heavy_check_mark-subtask-3-assertion)
+* [Subtask 4: Repeating](#heavy_check_mark-subtask-4-repeating) <p></p>
+:eight_spoked_asterisk: <b>[Task 4: Refactor, debugger and test cases](#point_right-task-4-refactor-debugger-and-test-cases-point_left) <b/><p></p>
+:eight_spoked_asterisk: <b>[Task 5: Robot framework](#point_right-task-5-robot-framework-point_left) <b/><p></p>
+:eight_spoked_asterisk: <b>[Task 6: Bug report, test report and portfolio](#point_right-task-6-bug-report-test-report-and-portfolio-point_left) <b/>
 
    <p></p>
   <p></p>
