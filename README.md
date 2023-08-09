@@ -1,6 +1,6 @@
 # Portfolio - Joanna Szymczyk-Raj  <p> :sparkles: Dare IT Challenges Testy Automatyczne + Python :sparkles: </p>
 
-### :loop: Table of contents <p></p>
+#### :loop: Table of contents <p></p>
 
  :eight_spoked_asterisk: <b>[Task 1: The Software configuration](#task-1-the-software-configuration)</b> <p></p>
 * [Subtask 1: Why did I decided take part in Dare IT Challenge project?](#subtask-1-why-did-i-decided-take-part-in-dare-it-challenge-project)
