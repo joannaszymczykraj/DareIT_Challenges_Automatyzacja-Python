@@ -1,28 +1,35 @@
-# Dare IT Challenges Testy Automatyczne + Python
+# Portfolio - Joanna Szymczyk-Raj  <p> :sparkles: Dare IT Challenges Testy Automatyczne + Python :sparkles: </p>
 
-#### Table of contents
-* [Task 1: The Software configuration](#task-1-the-software-configuration)
+### :loop: Table of contents <p></p>
+
+* :eight_spoked_asterisk: <b>[Task 1: The Software configuration](#task-1-the-software-configuration)</b> <p></p>
 * [Subtask 1: Why did I decided take part in Dare IT Challenge project?](#subtask-1-why-did-i-decided-take-part-in-dare-it-challenge-project)
 * [Subtask 2: Repairing a problem on the console](#subtask-2-repairing-a-problem-on-the-console)
 * [Subtask 3: Adding a code to my repository](#subtask-3-adding-a-code-to-my-repository)
-* [Subtask 4: Special task - purpule test](#subtask-4-special-task---purpule-test)
-* [Task 2: Selectors](#task-2-selectors)
+* [Subtask 4: Special task - purpule test](#subtask-4-special-task---purpule-test) <p></p>
+* :eight_spoked_asterisk: <b>[Task 2: Selectors](#task-2-selectors) </b><p></p>
 * [Subtask 1: Special task - new branch](#subtask-1-special-task---new-branch)
 * [Subtask 2: Searching for selectors on the login page. Show all items from the login page](#subtask-2-searching-for-selectors-on-the-login-page-show-all-items-from-the-login-page)
 * [Subtask 3: Adding selectors to the project](#subtask-3-adding-selectors-to-the-project)
 * [Subtask 4: Adding a new field to the project](#subtask-4-adding-a-new-field-to-the-project)
 * [Subtask 5: Addind a new field - add a match form](#subtask-5-addind-a-new-field---add-a-match-form)
-* [Subtask 6: Special task - branch merging](#subtask-6-special-task---branch-merging)
-* [Task 3: First test case and assertion](#task-3-first-test-case-and-assertion)
+* [Subtask 6: Special task - branch merging](#subtask-6-special-task---branch-merging) <p></p>
+* :eight_spoked_asterisk: <b>[Task 3: First test case and assertion](#task-3-first-test-case-and-assertion) </b><p></p>
 * [Subtask 1: Completing the login page](#subtask-1-completing-the-login-page)
 * [Subtask 2: New test case](#subtask-2-new-test-case)
 * [Subtask 3: Assertion](#subtask-3-assertion)
-* [Subtask 4: Repeating](#subtask-4-repeating)
-* [Task 4: Refactor, debugger and test cases](#task-4-refactor-debugger-and-test-cases)
-* [Task 5: Robot framework](#task-5-robot-framework)
-* [Task 6: Bug report, test report and portfolio](#task-6-bug-report-test-report-and-portfolio)
+* [Subtask 4: Repeating](#subtask-4-repeating) <p></p>
+:eight_spoked_asterisk: <b>[Task 4: Refactor, debugger and test cases](#task-4-refactor-debugger-and-test-cases) <b/><p></p>
+:eight_spoked_asterisk: <b>[Task 5: Robot framework](#task-5-robot-framework) <b/><p></p>
+:eight_spoked_asterisk: <b>[Task 6: Bug report, test report and portfolio](#task-6-bug-report-test-report-and-portfolio) <b/>
+
+   <p></p>
+  <p></p>
+
+__________________________________________________________
   
-## Task 1: The Software configuration
+## Task 1: The Software configuration <p></p>
+__________________________________________________________
 ### Subtask 1: Why did I decided take part in Dare IT Challenge project?
 <details>
 <summary>Click here to see general information about <b>Subtask 1</b></summary>
@@ -47,7 +54,9 @@ The code added. Files moved to the repository.
 My test result: 13/14
 </details>
 
+__________________________________________________________
 ## Task 2: Selectors
+__________________________________________________________
 
 ### Subtask 1: Special task - new branch
 New branch "selectors" added to PYcharm.
@@ -206,8 +215,12 @@ Job done - a new field "add_a_match_form" added to the projekt in PyCharm. Moreo
 ### Subtask 6: Special task - branch merging
 Job done - merge pull request :muscle:
 
+__________________________________________________________
 
 ## Task 3: First test case and assertion
+
+__________________________________________________________
+
 ### Subtask 1: Completing the login page
 Job done - the login page has been completed.
 ### Subtask 2: New test case
@@ -232,8 +245,13 @@ Job done - the assertion has been done.
   Job done - I'm a master :superhero_woman: :laughing:
 </p>
    </details>  
-   
+
+__________________________________________________________
+
 ## Task 4: Refactor, debugger and test cases
+
+__________________________________________________________
+
 <details>
 <summary>Click here to see general information about <b>Task 4 </b></summary>
  <p></p>
@@ -249,11 +267,18 @@ And the end I have to say that it was really fun to sit at night and look for bu
 
    </details>
 
+__________________________________________________________
 ## Task 5: Robot framework
+
+__________________________________________________________
+
 <p></p>
 :point_right:Link to my new repository with <b>robot framework<b>: https://github.com/joannaszymczykraj/panelscouts_robotframework.git
 
+__________________________________________________________
 ## Task 6: Bug report, test report and portfolio
+
+__________________________________________________________
 <p></p>
 :point_right: Link to my <b>Google Drive with Task 6<b>: https://drive.google.com/drive/folders/16v1R3lYfInhQ_OqfTN5G1MDHr3qYxFy2?usp=drive_link
 <p></p>
