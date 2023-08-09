@@ -35,6 +35,7 @@ __________________________________________________________
 
 <details>
 <summary>Click here to see general information about <b>Subtask 1</b></summary>
+<p></p> 
 At the beginning of 2023, I decided to change the industry. The choice fell on a software tester. I started self-study, got the <b>ISTQB certificate</b> and participated in several testing congresses (for example <b>Test:Fest</b>). I really feel like doing this and it's my objective for this year. A few months ago I took part in the <b>Manual Tester Challenge</b> project. I decided that the course was very valuable and taking into account the situation on the testing job market, I decided that participation in the Introduction to Automated Testing + Python Challenge would be a good step. I hope that I will learn new things, broaden my horizons, gain experience necessary to apply for my first job as a software tester.
 </details>
 
@@ -44,7 +45,8 @@ At the beginning of 2023, I decided to change the industry. The choice fell on a
 
 <details>
 <summary>Click here to see general information about <b>Subtask 2</b></summary>
-Fortunately, I don't get this error (or I don't see it :sweat_smile:) So I'm going to the next task.
+<p></p>
+ Fortunately, I don't get this error (or I don't see it :sweat_smile:) So I'm going to the next task.
 </details>
 
 <p></p>
@@ -52,7 +54,8 @@ Fortunately, I don't get this error (or I don't see it :sweat_smile:) So I'm goi
 ### :diamonds: Subtask 3: Adding a code to my repository
 <details>
 <summary>Click here to see general information about <b>Subtask 3</b></summary>
-The code added. Files moved to the repository.
+<p></p>
+ The code added. Files moved to the repository.
 </details>
 
 <p></p>
@@ -60,7 +63,8 @@ The code added. Files moved to the repository.
 ### :diamonds: Subtask 4: Special task - purpule test
 <details>
 <summary>Click here to see general information about <b>Subtask 4</b></summary>
-My test result: 13/14
+<p></p>
+ My test result: 13/14
 </details>
 
 <p></p>
