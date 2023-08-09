@@ -2,19 +2,19 @@
 
 ### :loop: Table of contents <p></p>
 
-* :eight_spoked_asterisk: <b>[Task 1: The Software configuration](#task-1-the-software-configuration)</b> <p></p>
+ :eight_spoked_asterisk: <b>[Task 1: The Software configuration](#task-1-the-software-configuration)</b> <p></p>
 * [Subtask 1: Why did I decided take part in Dare IT Challenge project?](#subtask-1-why-did-i-decided-take-part-in-dare-it-challenge-project)
 * [Subtask 2: Repairing a problem on the console](#subtask-2-repairing-a-problem-on-the-console)
 * [Subtask 3: Adding a code to my repository](#subtask-3-adding-a-code-to-my-repository)
 * [Subtask 4: Special task - purpule test](#subtask-4-special-task---purpule-test) <p></p>
-* :eight_spoked_asterisk: <b>[Task 2: Selectors](#task-2-selectors) </b><p></p>
+ :eight_spoked_asterisk: <b>[Task 2: Selectors](#task-2-selectors) </b><p></p>
 * [Subtask 1: Special task - new branch](#subtask-1-special-task---new-branch)
 * [Subtask 2: Searching for selectors on the login page. Show all items from the login page](#subtask-2-searching-for-selectors-on-the-login-page-show-all-items-from-the-login-page)
 * [Subtask 3: Adding selectors to the project](#subtask-3-adding-selectors-to-the-project)
 * [Subtask 4: Adding a new field to the project](#subtask-4-adding-a-new-field-to-the-project)
 * [Subtask 5: Addind a new field - add a match form](#subtask-5-addind-a-new-field---add-a-match-form)
 * [Subtask 6: Special task - branch merging](#subtask-6-special-task---branch-merging) <p></p>
-* :eight_spoked_asterisk: <b>[Task 3: First test case and assertion](#task-3-first-test-case-and-assertion) </b><p></p>
+ :eight_spoked_asterisk: <b>[Task 3: First test case and assertion](#task-3-first-test-case-and-assertion) </b><p></p>
 * [Subtask 1: Completing the login page](#subtask-1-completing-the-login-page)
 * [Subtask 2: New test case](#subtask-2-new-test-case)
 * [Subtask 3: Assertion](#subtask-3-assertion)
@@ -28,40 +28,51 @@
 
 __________________________________________________________
   
-## Task 1: The Software configuration <p></p>
+## :point_right: Task 1: The Software configuration :point_left: <p></p>
 __________________________________________________________
-### Subtask 1: Why did I decided take part in Dare IT Challenge project?
+
+### :diamonds: Subtask 1: Why did I decided take part in Dare IT Challenge project?
+
 <details>
 <summary>Click here to see general information about <b>Subtask 1</b></summary>
 At the beginning of 2023, I decided to change the industry. The choice fell on a software tester. I started self-study, got the <b>ISTQB certificate</b> and participated in several testing congresses (for example <b>Test:Fest</b>). I really feel like doing this and it's my objective for this year. A few months ago I took part in the <b>Manual Tester Challenge</b> project. I decided that the course was very valuable and taking into account the situation on the testing job market, I decided that participation in the Introduction to Automated Testing + Python Challenge would be a good step. I hope that I will learn new things, broaden my horizons, gain experience necessary to apply for my first job as a software tester.
 </details>
 
-### Subtask 2: Repairing a problem on the console
+<p></p>
+
+### :diamonds: Subtask 2: Repairing a problem on the console
+
 <details>
 <summary>Click here to see general information about <b>Subtask 2</b></summary>
 Fortunately, I don't get this error (or I don't see it :sweat_smile:) So I'm going to the next task.
 </details>
 
-### Subtask 3: Adding a code to my repository
+<p></p>
+
+### :diamonds: Subtask 3: Adding a code to my repository
 <details>
 <summary>Click here to see general information about <b>Subtask 3</b></summary>
 The code added. Files moved to the repository.
 </details>
 
-### Subtask 4: Special task - purpule test
+<p></p>
+
+### :diamonds: Subtask 4: Special task - purpule test
 <details>
 <summary>Click here to see general information about <b>Subtask 4</b></summary>
 My test result: 13/14
 </details>
 
+<p></p>
+
 __________________________________________________________
-## Task 2: Selectors
+## :point_right: Task 2: Selectors :point_left:
 __________________________________________________________
 
-### Subtask 1: Special task - new branch
+### :gem: Subtask 1: Special task - new branch
 New branch "selectors" added to PYcharm.
 
-### Subtask 2: Searching for selectors on the login page. Show all items from the login page
+### :gem: Subtask 2: Searching for selectors on the login page. Show all items from the login page
 <details> 
 <summary><b>1.	HEADER_SCOUTS_PANEL_XPATH</b></summary>
   
@@ -203,31 +214,31 @@ New branch "selectors" added to PYcharm.
 </div>
 </details>
 
-### Subtask 3: Adding selectors to the project
+### :gem: Subtask 3: Adding selectors to the project
 Job done - selektors added to the projekt in the login_page tab in PyCharm.
 
-### Subtask 4: Adding a new field to the project
+### :gem: Subtask 4: Adding a new field to the project
 Job done - a new field "dashboard" added to the project in PyCharm.
 
-### Subtask 5: Addind a new field - add a match form
+### :gem: Subtask 5: Addind a new field - add a match form
 Job done - a new field "add_a_match_form" added to the projekt in PyCharm. Moreover, more than 10 selectors have been added.
 
-### Subtask 6: Special task - branch merging
+### :gem: Subtask 6: Special task - branch merging
 Job done - merge pull request :muscle:
 
 __________________________________________________________
 
-## Task 3: First test case and assertion
+## :point_right: Task 3: First test case and assertion :point_left:
 
 __________________________________________________________
 
-### Subtask 1: Completing the login page
+### :heavy_check_mark: Subtask 1: Completing the login page
 Job done - the login page has been completed.
-### Subtask 2: New test case
+### :heavy_check_mark: Subtask 2: New test case
 Job done - the new test case has been done. 
-### Subtask 3: Assertion
+### :heavy_check_mark: Subtask 3: Assertion
 Job done - the assertion has been done.
-### Subtask 4: Repeating
+### :heavy_check_mark: Subtask 4: Repeating
 <details>
 <summary>Click here to see general information about <b>Subtask 4</b></summary>
  <p>
@@ -248,7 +259,7 @@ Job done - the assertion has been done.
 
 __________________________________________________________
 
-## Task 4: Refactor, debugger and test cases
+## :point_right: Task 4: Refactor, debugger and test cases :point_left:
 
 __________________________________________________________
 
@@ -268,7 +279,7 @@ And the end I have to say that it was really fun to sit at night and look for bu
    </details>
 
 __________________________________________________________
-## Task 5: Robot framework
+## :point_right: Task 5: Robot framework :point_left:
 
 __________________________________________________________
 
@@ -276,7 +287,7 @@ __________________________________________________________
 :point_right:Link to my new repository with <b>robot framework<b>: https://github.com/joannaszymczykraj/panelscouts_robotframework.git
 
 __________________________________________________________
-## Task 6: Bug report, test report and portfolio
+## :point_right: Task 6: Bug report, test report and portfolio :point_left:
 
 __________________________________________________________
 <p></p>
