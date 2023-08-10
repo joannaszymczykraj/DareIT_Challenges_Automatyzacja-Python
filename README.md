@@ -272,6 +272,26 @@ __________________________________________________________
 
 __________________________________________________________
 
+<p></p>
+<p></p>
+
+### This task allowed me, among others: <p></p>
+<p></p>
+
+:arrow_right: get to know the framework on which we will work (unittest),<p></p>
+
+:arrow_right: click on elements on the page,<p></p>
+
+:arrow_right: fill in the fields with text,<p></p>
+
+:arrow_right: use assert titles,<p></p>
+
+:arrow_right: run the test.
+<p></p>
+
+__________________________________________________________
+
+
 ### :heavy_check_mark: Subtask 1: Completing the login page
 Job done - the login page has been completed.
 ### :heavy_check_mark: Subtask 2: New test case
