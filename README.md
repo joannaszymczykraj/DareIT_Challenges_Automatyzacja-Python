@@ -278,7 +278,7 @@ __________________________________________________________
 ### This task allowed me, among others: <p></p>
 <p></p>
 
-:arrow_right: get to know the framework on which we will work (unittest),<p></p>
+:arrow_right: get to know the framework on which I worked (unittest),<p></p>
 
 :arrow_right: click on elements on the page,<p></p>
 
