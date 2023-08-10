@@ -385,7 +385,27 @@ __________________________________________________________
 ## :point_right: Task 6: Bug report, test report and portfolio :point_left:
 
 __________________________________________________________
+
+<p></p>
+<p></p>
+
+### This task allowed me, among others:
+<p></p>
+<p></p>
+:arrow_right: use projects for the (only right) purpose - catching bugs,<p></p>
+
+:arrow_right: get acquainted with the structure of a correctly reported bug,<p></p>
+
+:arrow_right: see the structure of the test reports,<p></p>
+
+:arrow_right: create a repository with a functional portfolio in the README file.
+<p></p>
+
+__________________________________________________________
+
 <p></p>
 :point_right: Link to my <b>Google Drive with Task 6<b>: https://drive.google.com/drive/folders/16v1R3lYfInhQ_OqfTN5G1MDHr3qYxFy2?usp=drive_link
 <p></p>
-:point_right: Link to my <b>Portfolio<b>: https://github.com/joannaszymczykraj/Portfolio_J_Szymczyk-Raj/blob/main/README.md
+ 
+ ### :point_right: Link to my :heavy_exclamation_mark:<b>Software Tester Portfolio<b>:heavy_exclamation_mark:: 
+ https://github.com/joannaszymczykraj/Portfolio_J_Szymczyk-Raj/blob/main/README.md
