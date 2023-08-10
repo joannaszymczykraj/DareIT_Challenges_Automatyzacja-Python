@@ -31,6 +31,25 @@ __________________________________________________________
 ## :point_right: Task 1: The Software configuration :point_left: <p></p>
 __________________________________________________________
 
+<p></p> 
+<p></p> 
+
+### This task allowed me, among others:
+
+<p></p>
+:arrow_right: perform exploratory tests of the application (https://scouts-test.futbolkolektyw.pl/),<p></p>
+
+:arrow_right: find out what programs are necessary to start automatic testing,<p></p>
+
+:arrow_right: set up your own remote repository in GitHub,<p></p>
+
+:arrow_right: clone the repository and configure the working environment (Python, IDE PyCharm Community, Selenium Webdriver),<p></p>
+
+:arrow_right: format the README file in my Challenge Portfolio.<p></p>
+<p></p>
+
+__________________________________________________________
+
 ### :diamonds: Subtask 1: Why did I decided take part in Dare IT Challenge project?
 
 <details>
