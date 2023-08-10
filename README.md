@@ -362,6 +362,23 @@ __________________________________________________________
 __________________________________________________________
 
 <p></p>
+<p></p>
+
+### This task allowed me, among others:<p></p>
+<p></p>
+
+:arrow_right: learn what Smoke Tests are, <p></p>
+
+:arrow_right: learn how to set up Suite Test, <p></p>
+
+:arrow_right: get to know a new framework (robot framework),<p></p>
+
+:arrow_right: automatically generate a test report in the new framework.
+<p></p>
+
+__________________________________________________________
+
+<p></p>
 :point_right:Link to my new repository with <b>robot framework<b>: https://github.com/joannaszymczykraj/panelscouts_robotframework.git
 
 __________________________________________________________
