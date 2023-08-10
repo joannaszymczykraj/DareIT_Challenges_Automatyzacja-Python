@@ -92,8 +92,25 @@ __________________________________________________________
 ## :point_right: Task 2: Selectors :point_left:
 __________________________________________________________
 
+<p></p>
+<p></p>
+
+### This job allowed me to:
+<p></p>
+<p></p>
+
+:arrow_right: learn what selectors are,<p></p>
+
+:arrow_right: find out where to look for selectors,<p></p>
+
+:arrow_right: know the xPath record,<p></p>
+
+:arrow_right: understand what to follow to extract these "best" selectors.<p></p>
+
+__________________________________________________________
+
 ### :gem: Subtask 1: Special task - new branch
-New branch "selectors" added to PYcharm.
+New branch "selectors" added to PyCharm.
 
 ### :gem: Subtask 2: Searching for selectors on the login page. Show all items from the login page
 <details> 
