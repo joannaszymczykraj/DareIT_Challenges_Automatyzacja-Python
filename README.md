@@ -406,6 +406,16 @@ __________________________________________________________
 <p></p>
 :point_right: Link to my <b>Google Drive with Task 6<b>: https://drive.google.com/drive/folders/16v1R3lYfInhQ_OqfTN5G1MDHr3qYxFy2?usp=drive_link
 <p></p>
+:point_down: <p></p>
+ <p></p>
+ 
+<b>You will find there:</b>
+:heavy_check_mark: test cases, 
+:heavy_check_mark: test report, 
+:heavy_check_mark: bug report. <p></p>
+
+<p></p>
+ __________________________________________________________
  
  ### :point_right: Link to my :heavy_exclamation_mark:<b>Software Tester Portfolio<b>:heavy_exclamation_mark:: 
  https://github.com/joannaszymczykraj/Portfolio_J_Szymczyk-Raj/blob/main/README.md
