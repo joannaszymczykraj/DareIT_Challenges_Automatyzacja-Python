@@ -323,6 +323,24 @@ __________________________________________________________
 
 __________________________________________________________
 
+ <p></p>
+
+### This task allowed me, among others: <p></p>
+ <p></p>
+
+:arrow_right: refactor the created code,<p></p>
+
+:arrow_right: learn how to work with the debugger,<p></p>
+
+:arrow_right: design and write test cases,<p></p>
+
+:arrow_right: automate the website (https://scouts-test.futbolkolektyw.pl/) based on my test cases.
+<p></p>
+
+
+__________________________________________________________
+
+
 <details>
 <summary>Click here to see general information about <b>Task 4 </b></summary>
  <p></p>
